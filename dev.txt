@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Dev1 is awesome
+=======
+Dev2 is awesome
+>>>>>>> Dev2
